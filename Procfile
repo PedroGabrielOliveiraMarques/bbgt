@@ -1,1 +1,1 @@
-web gunicorn app:formulario.py
+web: gunicorn app:formulario
