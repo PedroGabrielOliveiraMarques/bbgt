@@ -1,1 +1,1 @@
-web: gunicorn app:formulario
+web: gunicorn app:app
